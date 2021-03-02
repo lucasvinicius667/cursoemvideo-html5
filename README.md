@@ -3,5 +3,5 @@
 Material usado como amostra no **Curso de Git e Github**, disponível gratui  no  *youtube*
 Lista numerada:
 1.teste
-1.teste2
-1.teste3
+2.teste2
+3.teste3
